@@ -17,6 +17,7 @@ require (
 	github.com/uber-go/tally/v4 v4.1.1
 	github.com/uber/jaeger-client-go v2.29.1+incompatible
 	github.com/uber/jaeger-lib v2.4.1+incompatible // indirect
+	github.com/xanzy/go-gitlab v0.81.0 // indirect
 	go.temporal.io/api v1.16.0
 	go.temporal.io/sdk v1.21.1
 	go.temporal.io/sdk/contrib/opentracing v0.1.0
